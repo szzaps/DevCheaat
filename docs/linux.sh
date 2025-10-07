@@ -199,10 +199,10 @@ nuclei for template-based scanning
 # ------------------------------------------------------------
 # Less Known / Highly Useful
 # ------------------------------------------------------------
-Evan's Payloads Repo (exotic payloads)
+Evan's Payloads Repo ( payloads)
 one_gadget (glibc exploitation)
 pwntools exploit templates
-pwncat / pwnlib (post-exploitation frameworks)
+pwncat / pwnlib 
 ROPgadget / Ropper for gadget search
-GDB Python scripting for automation
-IDA Pro / Ghidra scripting for automation
+GDB Python 
+IDA Pro / Ghidra 
