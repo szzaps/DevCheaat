@@ -229,7 +229,7 @@ void secure_zero(void *ptr, size_t len) {
 }
 
 # ============================================================
-# NETWORK PROGRAMMING WITH EPOLL
+# NETWORK PROGRAMMING
 # ============================================================
 
 int setup_epoll_server(int port) {
