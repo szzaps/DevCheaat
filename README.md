@@ -1,6 +1,6 @@
 # DevCheaat
 
-A set of cheatsheets for **Python, JavaScript/Node.js, Go,Rust,Bash and Linux**
+A set of cheatsheets for **Python, JavaScript, Go,Rust,Bash and Linux**
 
 These cheatsheets are structured to be:
 
