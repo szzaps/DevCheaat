@@ -24,7 +24,7 @@ Covers:
 - Debugging, profiling, and testing  
 - Example workflows combining multiple concepts  
 
-### JavaScript
+### JavaScript / Node.js
 Covers:
 
 - ES6+ syntax and modules  
